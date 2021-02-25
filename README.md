@@ -1,24 +1,5 @@
-# README
+# Twitter Clone
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Twitter clone Youtube tutorial found [here](https://www.youtube.com/watch?v=5gUysPm64a4&feature=emb_logo), completed as part of [The Odin Project Rails Curriculum](https://www.theodinproject.com/courses/ruby-on-rails/lessons/authentication).
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
